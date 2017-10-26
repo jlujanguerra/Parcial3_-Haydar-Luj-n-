@@ -1,0 +1,10 @@
+Feedback
+
+1.(0.0/2.0)
+* No encuentro archivo del diagrama de clases.
+
+2.(0.0/3.0)
+* No se puede construir el árbol de comportamiento con el código suministrado.
+* La secuencia suminstrada utiliza un método void para validar lo que sea que haga. Un log no me sirve en ninguna parte para saber si la lógica es o no correcta. Solo me sirve a mí (humano) para saber que ese pedazo de la lógica se ejecutó.
+
+Nota: 0.0
